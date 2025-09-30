@@ -1,1 +1,1 @@
-RANDOM
+SET rage.png
