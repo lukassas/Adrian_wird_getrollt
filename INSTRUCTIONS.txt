@@ -1,1 +1,1 @@
-SET Bilder\putin.png
+SET rage.png
