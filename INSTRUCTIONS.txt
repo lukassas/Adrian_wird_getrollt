@@ -1,1 +1,1 @@
-SET pn.png
+SET putin.png
